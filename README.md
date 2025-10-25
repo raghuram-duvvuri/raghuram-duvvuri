@@ -17,4 +17,4 @@
 - ⚡ Fun fact **I like soccer, cricket, and gaming.**
  
 ### My Tools:
-[![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity,git&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity,git,androidstudio&theme=dark)](https://skillicons.dev)
