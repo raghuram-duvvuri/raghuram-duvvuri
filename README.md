@@ -18,8 +18,3 @@
  
 ### My Tools:
 [![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity,git&theme=dark)](https://skillicons.dev)
-
- 
-### My Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=endgamerdagoat&theme=nord&no-frame=true" alt="endgamerdagoat's stats"> </a> </p>
-<p>  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=endgamerdagoat"> </a>  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamerdagoat&size_weight=0.5&count_weight=0.5&layout=compact"> </a> </p>
