@@ -2,7 +2,7 @@
 
 ### I'm a high school junior interested in:
 - 🚀 engineering and software development (ai/ml, hardware, mobile app dev)
-- 🍎 advanced math and physics (multivariable calc, e&m)
+- 🍎 advanced math and physics (diff eq, multivariable calc, e&m, modern phys)
 - ✏️ solving advanced problems using math and cs
 
 ### My Tools:
